@@ -17,6 +17,18 @@ Na pasta [Cursos/LuizOtavio-Udemy-Python3.0](Cursos/LuizOtavio-Udemy-Python3.0),
 
 Os comentários dos arquivos registram o professor, a plataforma e Rafael Tasinato como aluno. Os créditos das orientações e propostas dos cursos pertencem aos respectivos professores; este repositório registra minha prática como estudante.
 
+### Curso de Felipe Cabrera — ByLearn
+
+Na pasta [Cursos/MestreFelipeCabrera-ByLearn-FaixaPretaPython](Cursos/MestreFelipeCabrera-ByLearn-FaixaPretaPython), estão exercícios do curso Faixa Preta Python, com referência ao professor Felipe Cabrera:
+
+- Laços de repetição compostos.
+- Listas de animais e alimentos.
+- Média de notas.
+- Coleta de dados da web (*scraping*).
+- Validação de idade.
+
+Os créditos das orientações do curso pertencem ao professor e à plataforma ByLearn.
+
 ## Material didático relacionado
 
 O [PythonAulas](https://github.com/Tasinato/PythonAulas) reúne atividades organizadas para estudo e ensino, com enunciados, exemplos e comparação entre programação sequencial, funções e orientação a objetos.
