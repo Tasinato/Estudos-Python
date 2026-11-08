@@ -29,6 +29,20 @@ Na pasta [Cursos/MestreFelipeCabrera-ByLearn-FaixaPretaPython](Cursos/MestreFeli
 
 Os créditos das orientações do curso pertencem ao professor e à plataforma ByLearn.
 
+### Curso de André Perez — EBAC
+
+Os notebooks na raiz do repositório registram exercícios da EBAC, com crédito ao professor André Perez:
+
+| Tema | Notebook |
+| --- | --- |
+| Variáveis e tipos de dados | [Exercícios de variáveis e tipos](Python_M1_support_material01_exercise.ipynb) |
+| Listas, conjuntos e dicionários | [Estruturas de dados](modulo_2_exercicios.ipynb) |
+| Classes e herança | [Programação orientada a objetos](module_6_exercise_revisado_%28Resolvido%29_%281%29.ipynb) |
+| Bibliotecas, Pandas e Seaborn | [Módulos, pacotes e análise de dados](modulo_7_exercicio_revisado.ipynb) |
+| Tratamento de erros | [Erros de sintaxe e execução](modulo_8_exercicios_revisado_3.ipynb) |
+
+Os cadernos identificam a EBAC e o professor André Perez. Este repositório reúne meus registros e resoluções de estudo, preservando os créditos do material de origem.
+
 ## Material didático relacionado
 
 O [PythonAulas](https://github.com/Tasinato/PythonAulas) reúne atividades organizadas para estudo e ensino, com enunciados, exemplos e comparação entre programação sequencial, funções e orientação a objetos.
