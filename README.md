@@ -51,4 +51,4 @@ Os cadernos identificam a EBAC e o professor André Perez. Este repositório re�
 
 O [PythonAulas](https://github.com/Tasinato/PythonAulas) reúne atividades organizadas para estudo e ensino, com enunciados, exemplos e comparação entre programação sequencial, funções e orientação a objetos.
 
-O PythonAulas está privado no momento; seu conteúdo é acessível apenas a pessoas autorizadas. Este Estudos-Python permanece como registro dos cursos e da trajetória de aprendizado.
+O PythonAulas está público e pode ser consultado para acessar as atividades didáticas organizadas. Este Estudos-Python permanece como registro dos cursos e da trajetória de aprendizado.
