@@ -17,6 +17,10 @@ Na pasta [Cursos/LuizOtavio-Udemy-Python3.0](Cursos/LuizOtavio-Udemy-Python3.0),
 
 Os comentários dos arquivos registram o professor, a plataforma e Rafael Tasinato como aluno. Os créditos das orientações e propostas dos cursos pertencem aos respectivos professores; este repositório registra minha prática como estudante.
 
+#### Versões revisadas
+
+As versões originais de strings e calculadora foram preservadas. A pasta [revisados](Cursos/LuizOtavio-Udemy-Python3.0/revisados) contém novas versões executáveis, explicações das correções e exemplos para comparar o comportamento antes e depois.
+
 ### Curso de Felipe Cabrera — ByLearn
 
 Na pasta [Cursos/MestreFelipeCabrera-ByLearn-FaixaPretaPython](Cursos/MestreFelipeCabrera-ByLearn-FaixaPretaPython), estão exercícios do curso Faixa Preta Python, com referência ao professor Felipe Cabrera:
